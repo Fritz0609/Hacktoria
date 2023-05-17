@@ -23,14 +23,10 @@ I looked around in Google Street View a bit but found myself only in the lower f
 
 So I searched the internet for the hotel or the Lounge Sirius combined with SSID, WIFI, BSSID but found nothing usefull. So I trasnlated WIFI to Japanese and searched again. With that search I found an japanese forum which told me, that the SSID used by the hotel would be "ROYALPARKHOTEL".
 
-![pathway](https://user-images.githubusercontent.com/99975622/202459692-8eb9f851-de80-467f-a645-05ea7f75a17a.png)
+![SSID](https://github.com/Fritz0609/Hacktoria/blob/Withering-Lotus/Screenshot%202023-05-18%20013107.jpg)
 
-and with that info covered... we can get our key...
-<br>
-_**cedar-rose-park-ohlone-greenway**_
+But how shoud I get the BSSID from the SSID. A quick internet search brought me to the site https://wigle.net/. There you can look up specific WIFI networks at one location. So I tried the BSSID I found there for the ROYALPARK SSIDs but non worked. I figured since it is the top floor and not the area with normal rooms there might be a special SSID so I looked throug the other SSIDs in the area an tried the BSSID from the SSID Wi2premium_club, which worked:
 
-use it to open the zip file and boom! <br>
-We get our contract
-![contract](https://user-images.githubusercontent.com/99975622/202460025-8ed81571-8caf-47b6-a622-81de4fc2eb09.png)
+![SSID2](https://user-images.githubusercontent.com/99975622/202460025-8ed81571-8caf-47b6-a622-81de4fc2eb09.png)
 
 _**My socials:**_ <br>@ twitter: twitter.com/M3tr1c_root <br>@ instagram: instagram.com/m3tr1c_r00t/
