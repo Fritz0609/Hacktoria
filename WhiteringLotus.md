@@ -3,8 +3,9 @@
 _**Challenge Description**_
 
 ![instructions](https://hacktoria.com/wp-content/uploads/2023/05/withering-lotus-web.png)
+Link: https://hacktoria.com/contracts/withering-lotus/
 
-Briefing
+Briefing Whitering Lotus
 Greetings, Special Agent K
 
 Thalia was able to pinpoint the organization responsible for her Valentine’s Day tragedy. Information has been conveyed to LeRoux, a red team counsel member who has infiltrated the location where the leader of The High Guard may be on vacation. Your mission is to assist LeRoux in obtaining the BSSID of the wifi utilized for 70th-floor interchanges. We have sent you a map to assist you in your search.
@@ -29,8 +30,10 @@ But how shoud I get the BSSID from the SSID. A quick internet search brought me 
 
 ![SSID2](https://github.com/Fritz0609/Hacktoria/blob/Withering-Lotus/Screenshot%202023-05-18%20013820.jpg?raw=true)
 
-I did it:
+I did it and got the contract card:
+
+![card](https://github.com/Fritz0609/Hacktoria/blob/Withering-Lotus/Contract%20Card%20-%20Withering%20Lotus.png?raw=true)
 
 
 
-_**My socials:**_ <br>@ twitter: twitter.com/M3tr1c_root <br>@ instagram: instagram.com/m3tr1c_r00t/
+_**My socials:**_ <br>@ twitter: twitter.com/Fritz0609
