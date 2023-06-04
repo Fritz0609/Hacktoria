@@ -132,7 +132,7 @@ I zoomed in and on first sight I saw the Ikopa river with the same strange islan
 
 ![maps2](https://github.com/Fritz0609/Hacktoria/assets/133924856/d78a7b89-d1a7-4503-b8cc-2bbafa965695)
 
-I followed the river and found the location I was looking for in seconds:
+I followed the river and found the location I was looking for in seconds. Notice the differnet color scheme of  the landscape, compared to our material screenshot:
 
 ![maps3](https://github.com/Fritz0609/Hacktoria/assets/133924856/3f0de421-08dd-4a80-8efb-932d7d26f85a)
 
