@@ -105,13 +105,15 @@ I started in the nil delta zommed in and out and went west from there, basicly a
 I searched longer than I intended without a result and went to bed late. 
 
 
+
+
 _**Capture the flag - Day 2**_
 
 
 I has some time in my lunch break so I decided to have a look at the operation again. I wanted to examin the hidden data in the PNG file, but first I checked my notes and reread the briefing. I highly recommend that step whenever you got your head clear, e.g. due to a break, to reread the briefing and your notes. In this case I stumbled over the expression "a location off one of the African coasts". Since I'm no native English speaker I wonderd if I got the African coast thing wrong. What means "off the coast"? I googled and regreted immediately that I searched the hole continent the night before. 
 
 So the PNG file was out of my mind again and I was into Google Maps again and searched for Islands around Africa.  
-In the north mainly the European Islands like Malta, Crete, Cypress didn't seem to fit the story. The ones close to Africa are to small. In the west the Canary Islands don't have big rivers. Cape Verdes and some Archipelagoes are to small - no big roads. In the east I exluded Mauritius (no big rivers) and Reunion (to much mountains), so what was left was Madagascar. I zoomed in and was stunded how many rivers there seemed to be. So I switched to OpenStreetMap since you can spot the rivers there easyer. Since the whole island is covered with rivers I quit the plan I had to check in Google Maps all the rivers:
+In the north mainly the European Islands like Malta, Crete, Cypress didn't seem to fit the story. The ones close to Africa are to small. In the west the Canary Islands don't have big rivers. Cape Verdes and some Archipelagoes are to small - no big roads. In the east I exluded Mauritius (no big rivers) and Reunion (to much mountains), so what was left was Madagascar. I zoomed in and was stunded how many rivers there seemed to be. So I switched to OpenStreetMap since you can spot the rivers there better. Since the whole island is covered with rivers I quit the plan I had to check in Google Maps all the rivers:
 
 ![river](https://github.com/Fritz0609/Hacktoria/assets/133924856/44ac2d00-9e29-4900-912a-f2cfd3a5b0ef)
 
